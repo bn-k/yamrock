@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/benka-me/yamrock/yamrock"
+	"github.com/bn-k/yamrock/yamrock"
 	"gopkg.in/yaml.v3"
 	"os"
 )

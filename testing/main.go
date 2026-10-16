@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/benka-me/yamrock/testing/config"
+	"github.com/bn-k/yamrock/testing/config"
 )
 
 func main() {

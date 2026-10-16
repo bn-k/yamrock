@@ -1,15 +1,15 @@
 # yamrock
-yaml to golang harcoded data
+yaml to golang hardcoded data
 
 ### Installation
 
-> go install github.com/benka-me/yamrock
+> go install github.com/bn-k/yamrock@latest
 
 ### Run
 
 > usage: yamrock [yaml source file] [destination folder] [package name]
 
 Example
-```bazaar 
+```sh
 > yamrock source.yaml ./config config
 ```
